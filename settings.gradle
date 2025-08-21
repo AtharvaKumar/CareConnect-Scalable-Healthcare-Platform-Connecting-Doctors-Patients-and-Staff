@@ -1,0 +1,2 @@
+rootProject.name = 'hospital-microservices'
+include 'eureka-server', 'api-gateway', 'doctor-service', 'patient-service', 'appointment-service', 'billing-service'

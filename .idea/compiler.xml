@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="21" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="hospital-microservices.api-gateway" options="-parameters" />
+      <module name="hospital-microservices.api-gateway.main" options="-parameters" />
+      <module name="hospital-microservices.api-gateway.test" options="-parameters" />
+      <module name="hospital-microservices.appointment-service" options="-parameters" />
+      <module name="hospital-microservices.appointment-service.main" options="-parameters" />
+      <module name="hospital-microservices.appointment-service.test" options="-parameters" />
+      <module name="hospital-microservices.billing-service" options="-parameters" />
+      <module name="hospital-microservices.billing-service.main" options="-parameters" />
+      <module name="hospital-microservices.billing-service.test" options="-parameters" />
+      <module name="hospital-microservices.doctor-service" options="-parameters" />
+      <module name="hospital-microservices.doctor-service.main" options="-parameters" />
+      <module name="hospital-microservices.doctor-service.test" options="-parameters" />
+      <module name="hospital-microservices.eureka-server" options="-parameters" />
+      <module name="hospital-microservices.eureka-server.main" options="-parameters" />
+      <module name="hospital-microservices.eureka-server.test" options="-parameters" />
+      <module name="hospital-microservices.patient-service" options="-parameters" />
+      <module name="hospital-microservices.patient-service.main" options="-parameters" />
+      <module name="hospital-microservices.patient-service.test" options="-parameters" />
+    </option>
+  </component>
+</project>
